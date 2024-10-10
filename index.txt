@@ -1,0 +1,11 @@
+Q1: What is Java?
+
+A1: Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.
+
+Q2: Explain the concept of OOP in Java.
+
+A2: OOP stands for Object-Oriented Programming. It is a programming paradigm based on the concept of "objects", which can contain data and methods to manipulate that data.
+
+Q3: What is the JVM?
+
+A3: JVM stands for Java Virtual Machine. It is an abstract machine that enables your computer to run Java programs by converting bytecode into machine code.
